@@ -1,6 +1,6 @@
 # Ai-assignments
 
-##  1 Tic-tac-toe with minimax algorithm
+##  1 Tic-tac-toe
 https://github.com/EkhlasMridha/ai-assignments/tree/master/1-tictactoe
 
 ## 2 Air quality index estimation
