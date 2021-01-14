@@ -11,6 +11,6 @@ https://github.com/EkhlasMridha/ai-assignments/tree/master/2-air-quality-index
 https://github.com/EkhlasMridha/ai-assignments/blob/master/3-estimatehouserent.ipynb
 
 ## 4 Neural network
- (air quality index using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-estimate-airquality-index-using-neural-network.ipynb
- (estimate house rent using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-house-rent-estimation-using-neaural-network.ipynb
+> (air quality index using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-estimate-airquality-index-using-neural-network.ipynb
+> (estimate house rent using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-house-rent-estimation-using-neaural-network.ipynb
  
