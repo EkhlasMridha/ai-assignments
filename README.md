@@ -13,4 +13,7 @@
 ## 4 Neural network
 * (air quality index using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-estimate-airquality-index-using-neural-network.ipynb
 * (estimate house rent using neural network) https://github.com/EkhlasMridha/ai-assignments/blob/master/4-house-rent-estimation-using-neaural-network.ipynb
+
+## Text suggesting system using Naive Bayes
+* https://github.com/EkhlasMridha/ai-assignments/blob/master/5-text-suggesting-system(naive%20bayes).ipynb
  
